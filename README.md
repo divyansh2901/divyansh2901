@@ -1,16 +1,47 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Divyansh%20Kashyap&fontSize=50&animation=fadeIn"/>
 
-<!--
-**divyansh2901/divyansh2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Divyansh Kashyap
 
-Here are some ideas to get you started:
+🎓 BTech CSE Student at IIIT Nagpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Aspiring Web3 Developer
+
+⚡ Learning Solidity, Ethereum & Smart Contracts
+
+🏆 Competitive Programming Enthusiast
+
+🚀 Building DApps and Blockchain Projects
+
+### Connect With Me
+
+[LinkedIn](your-linkedin-link)
+
+[Twitter](your-twitter-link)
+
+[Codeforces](your-codeforces-link)
+
+[CodeChef](your-codechef-link)
+
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
+
+![Ethereum](https://img.shields.io/badge/Ethereum-grey?style=for-the-badge&logo=ethereum)
+
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+### GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=divyansh2901&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh2901&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=divyansh2901&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=divyansh2901&color=blue)
