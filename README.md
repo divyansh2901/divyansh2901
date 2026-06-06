@@ -24,24 +24,10 @@
 
 ### Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-
-![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
-
-![Ethereum](https://img.shields.io/badge/Ethereum-grey?style=for-the-badge&logo=ethereum)
-
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react) ![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js) ![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity) ![Ethereum](https://img.shields.io/badge/Ethereum-grey?style=for-the-badge&logo=ethereum) ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 
 ### GitHub Stats
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=divyansh2901&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh2901&layout=compact&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=divyansh2901&theme=tokyonight)
-
 ![](https://komarev.com/ghpvc/?username=divyansh2901&color=blue)
