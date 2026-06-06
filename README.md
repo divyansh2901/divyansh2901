@@ -1,24 +1,14 @@
 # Hi 👋, I'm Divyansh Kashyap
 
 🎓 BTech CSE Student at IIIT Nagpur
-
 🌐 Aspiring Web3 Developer
-
 ⚡ Learning Solidity, Ethereum & Smart Contracts
-
 🏆 Competitive Programming Enthusiast
-
 🚀 Building DApps and Blockchain Projects
 
 ### Connect With Me
 
-[LinkedIn](your-linkedin-link)
-
-[Twitter](your-twitter-link)
-
-[Codeforces](your-codeforces-link)
-
-[CodeChef](your-codechef-link)
+[LinkedIn](https://www.linkedin.com/in/divyansh-kashyap-760147286/)  [Twitter](https://x.com/div_eth)  [CodeChef](https://www.codechef.com/users/divyansh_2901)  [Codeforces](https://codeforces.com/profile/divyansh.2901)
 
 ## 🛠️ Tech Stack
 
